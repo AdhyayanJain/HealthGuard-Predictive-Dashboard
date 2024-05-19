@@ -1,0 +1,3 @@
+streamlit run "D:\#YPR\3rd Trimester\SEMINAR\models\login_signup.py"
+
+streamlit run "D:\#YPR\3rd Trimester\SEMINAR\models\ml_model.py"
